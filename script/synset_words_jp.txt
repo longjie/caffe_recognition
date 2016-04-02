@@ -1,0 +1,1000 @@
+n01440764 tench, Tinca tinca
+n01443537 金魚
+n01484850 白鮫
+n01491361 イタチザメ
+n01494475 撞木鮫
+n01496331 魚雷
+n01498041 鱝
+n01514668 鶏
+n01514859 鶏
+n01518878 鴕鳥
+n01530575 花鶏
+n01531178 goldfinch, Carduelis carduelis
+n01532829 メキシコマシコ
+n01534433 junco, snowbird
+n01537544 ルリノジコ
+n01558993 駒鳥
+n01560419 鵯
+n01580077 樫鳥
+n01582220 鵲
+n01592084 四十雀
+n01601694 柄杓
+n01608432 鳶凧
+n01614925 白頭鷲
+n01616318 禿鷹
+n01622779 カラフトフクロウ
+n01629819 European fire salamander, Salamandra salamandra
+n01630670 common newt, Triturus vulgaris
+n01631663 eft
+n01632458 spotted salamander, Ambystoma maculatum
+n01632777 アホロートル
+n01641577 食用蛙
+n01644373 青蛙
+n01644900 tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
+n01664065 赤海亀
+n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+n01667114 鼈
+n01667778 スッポン
+n01669191 box turtle, box tortoise
+n01675722 banded gecko
+n01677366 イグアナ
+n01682714 American chameleon, anole, Anolis carolinensis
+n01685808 whiptail, whiptail lizard
+n01687978 agama
+n01688243 frilled lizard, Chlamydosaurus kingi
+n01689811 alligator lizard
+n01692333 Gila monster, Heloderma suspectum
+n01693334 green lizard, Lacerta viridis
+n01694178 African chameleon, Chamaeleo chamaeleon
+n01695060 コモド大蜥蜴
+n01697457 ナイル鰐
+n01698640 ミシシッピ鰐
+n01704323 三角竜
+n01728572 盲蛇
+n01728920 ringneck snake, ring-necked snake, ring snake
+n01729322 hognose snake, puff adder, sand viper
+n01729977 green snake, grass snake
+n01734418 king snake, kingsnake
+n01735189 garter snake, grass snake
+n01737021 water snake
+n01739381 vine snake
+n01740131 night snake, Hypsiglena torquata
+n01742172 蠎
+n01744401 錦蛇
+n01748264 Indian cobra, Naja naja
+n01749939 green mamba
+n01751748 海蛇
+n01753488 horned viper, cerastes, sand viper, horned asp, Cerastes cornutus
+n01755581 ダイヤガラガラヘビ
+n01756291 ヨコバイガラガラヘビ
+n01768244 三葉虫
+n01770081 蚊蜻蛉
+n01770393 蠍
+n01773157 black and gold garden spider, Argiope aurantia
+n01773549 barn spider, Araneus cavaticus
+n01773797 garden spider, Aranea diademata
+n01774384 black widow, Latrodectus mactans
+n01774750 タランチュラ
+n01775062 コモリグモ
+n01776313 蒲団皮
+n01784675 蜈蚣
+n01795545 クロライチョウ
+n01796340 雷鳥
+n01797886 鷓鴣
+n01798484 prairie chicken, prairie grouse, prairie fowl
+n01806143 越鳥
+n01806567 鶉
+n01807496 鷓鴣
+n01817953 African grey, African gray, Psittacus erithacus
+n01818515 macaw
+n01819313 sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita
+n01820546 lorikeet
+n01824575 coucal
+n01828970 bee eater
+n01829413 犀鳥
+n01833805 蜂鳥
+n01843065 jacamar
+n01843383 大嘴
+n01847000 鴨
+n01855032 海秋沙
+n01855672 鵞鳥
+n01860187 黒鳥
+n01871265 tusker
+n01872401 針土竜
+n01873310 鴨の嘴
+n01877812 ワラビー
+n01882714 袋熊
+n01883070 袋熊擬き
+n01910747 海月
+n01914609 磯巾着
+n01917289 脳珊瑚
+n01924916 扁虫類
+n01930112 袋形動物
+n01943899 貝
+n01944390 螺
+n01945685 鈍間
+n01950731 海鼠
+n01955084 ヒザラガイ
+n01968897 鸚鵡貝
+n01978287 Dungeness crab, Cancer magister
+n01978455 rock crab, Cancer irroratus
+n01980166 fiddler crab
+n01981276 鱈場蟹
+n01983481 American lobster, Northern lobster, Maine lobster, Homarus americanus
+n01984695 蝦
+n01985128 鰕
+n01986214 陸宿借り
+n01990800 等脚目
+n02002556 シュバシコウ
+n02002724 ナベコウ
+n02006656 箆鷺
+n02007558 紅鶴
+n02009229 little blue heron, Egretta caerulea
+n02009912 American egret, great white heron, Egretta albus
+n02011460 苦汁
+n02012849 鶴
+n02013706 limpkin, Aramus pictus
+n02017213 European gallinule, Porphyrio porphyrio
+n02018207 アメリカオオバン
+n02018795 bustard
+n02025239 ruddy turnstone, Arenaria interpres
+n02027492 ハマシギ
+n02028035 redshank, Tringa totanus
+n02033041 dowitcher
+n02037110 ミヤコドリ族
+n02051845 伽藍鳥
+n02056570 キングペンギン
+n02058221 馬鹿鳥
+n02066245 糸巻エイ
+n02071294 鯱
+n02074367 海牛
+n02077923 葦鹿
+n02085620 チワワ
+n02085782 狆
+n02085936 マルチーズ
+n02086079 ペキニーズ
+n02086240 シーズー
+n02086646 ブレナムスパニエル
+n02086910 パピヨン
+n02087046 トイテリア
+n02087394 Rhodesian ridgeback
+n02088094 アフガン編み
+n02088238 バセットハウンド
+n02088364 ビーグル
+n02088466 警察犬
+n02088632 bluetick
+n02089078 black-and-tan coonhound
+n02089867 Walker hound, Walker foxhound
+n02089973 English foxhound
+n02090379 redbone
+n02090622 ボルゾイ
+n02090721 アイリッシュウルフハウンド
+n02091032 イタリアン・グレーハウンド
+n02091134 whippet
+n02091244 Ibizan hound, Ibizan Podenco
+n02091467 Norwegian elkhound, elkhound
+n02091635 オッターハウンド
+n02091831 Saluki, gazelle hound
+n02092002 Scottish deerhound, deerhound
+n02092339 Weimaraner
+n02093256 Staffordshire bullterrier, Staffordshire bull terrier
+n02093428 アメリカン・ピット・ブル・テリア
+n02093647 ベドリントン・テリア
+n02093754 Border terrier
+n02093859 Kerry blue terrier
+n02093991 Irish terrier
+n02094114 Norfolk terrier
+n02094258 Norwich terrier
+n02094433 ヨークシャーテリア
+n02095314 wire-haired fox terrier
+n02095570 Lakeland terrier
+n02095889 Sealyham terrier, Sealyham
+n02096051 Airedale, Airedale terrier
+n02096177 ケルン
+n02096294 Australian terrier
+n02096437 Dandie Dinmont, Dandie Dinmont terrier
+n02096585 Boston bull, Boston terrier
+n02097047 ミニチュア・シュナウザー
+n02097130 ジャイアント・シュナウザー
+n02097209 standard schnauzer
+n02097298 スコッチテリア
+n02097474 Tibetan terrier, chrysanthemum dog
+n02097658 silky terrier, Sydney silky
+n02098105 soft-coated wheaten terrier
+n02098286 ウエスト・ハイランド・ホワイト・テリア
+n02098413 ラサ
+n02099267 flat-coated retriever
+n02099429 curly-coated retriever
+n02099601 ゴールデン・レトリバー
+n02099712 ラブラドール・レトリバー
+n02099849 チェサピーク・ベイ・レトリーバー
+n02100236 German short-haired pointer
+n02100583 vizsla, Hungarian pointer
+n02100735 English setter
+n02100877 アイリッシュ・セッター
+n02101006 Gordon setter
+n02101388 Brittany spaniel
+n02101556 clumber, clumber spaniel
+n02102040 イングリッシュ・スプリンガー・スパニエル
+n02102177 ウェルシュスプリンガースパニエル
+n02102318 撫育
+n02102480 Sussex spaniel
+n02102973 Irish water spaniel
+n02104029 kuvasz
+n02104365 schipperke
+n02105056 groenendael
+n02105162 malinois
+n02105251 briard
+n02105412 kelpie
+n02105505 komondor
+n02105641 ボブテール
+n02105855 シェットランド・シープドッグ
+n02106030 コリー
+n02106166 ボーダー・コリー
+n02106382 Bouvier des Flandres, Bouviers des Flandres
+n02106550 Rottweiler
+n02106662 シェパード
+n02107142 Doberman, Doberman pinscher
+n02107312 ミニチュア・ピンシャー
+n02107574 Greater Swiss Mountain dog
+n02107683 バーニーズ・マウンテン・ドッグ
+n02107908 Appenzeller
+n02108000 EntleBucher
+n02108089 闘士
+n02108422 bull mastiff
+n02108551 チベタンマスチフ
+n02108915 フレンチ・ブルドッグ
+n02109047 グレートデン
+n02109525 サンベルナール峠
+n02109961 嗄れ
+n02110063 アラスカン・マラミュート
+n02110185 シベリアンハスキー
+n02110341 dalmatian, coach dog, carriage dog
+n02110627 アーフェンピンシャー
+n02110806 basenji
+n02110958 パグ
+n02111129 Leonberg
+n02111277 Newfoundland, Newfoundland dog
+n02111500 Great Pyrenees
+n02111889 Samoyed, Samoyede
+n02112018 スピッツ
+n02112137 飼料
+n02112350 keeshond
+n02112706 ブラバンソングリフォン
+n02113023 ペンブローク
+n02113186 セーター
+n02113624 toy poodle
+n02113712 miniature poodle
+n02113799 standard poodle
+n02113978 Mexican hairless
+n02114367 灰色狼
+n02114548 white wolf, Arctic wolf, Canis lupus tundrarum
+n02114712 赤狼
+n02114855 ヤマイヌ
+n02115641 ディンゴ
+n02115913 dhole, Cuon alpinus
+n02116738 African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus
+n02117135 ハイエナ
+n02119022 red fox, Vulpes vulpes
+n02119789 kit fox, Vulpes macrotis
+n02120079 白狐
+n02120505 grey fox, gray fox, Urocyon cinereoargenteus
+n02123045 虎猫
+n02123159 虎猫
+n02123394 ペルシア猫
+n02123597 シャム猫
+n02124075 Egyptian cat
+n02125311 黒豹
+n02127052 山猫
+n02128385 豹
+n02128757 欠片
+n02128925 黒豹
+n02129165 金毛
+n02129604 豪雄
+n02130308 チーター
+n02132136 羆
+n02133161 黒熊
+n02134084 白熊
+n02134418 sloth bear, Melursus ursinus, Ursus ursinus
+n02137549 マングース
+n02138441 ミーアキャット
+n02165105 道標
+n02165456 瓢虫
+n02167151 蚯蚓
+n02168699 髪切り虫
+n02169497 金花虫
+n02172182 糞虫
+n02174001 甲虫
+n02177972 象虫
+n02190166 飛行
+n02206856 ハナバチ
+n02219486 蟻
+n02226429 飛蝗
+n02229544 鈴虫
+n02231487 松葉杖
+n02233338 諸子
+n02236044 鎌切
+n02256656 蝉
+n02259212 褄黒横這い
+n02264363 lacewing, lacewing fly
+n02268443 麦藁蜻蛉
+n02268853 鉄漿蜻蛉
+n02276258 提督
+n02277742 毛巻き
+n02279972 諸王
+n02280649 紋白蝶
+n02281406 sulphur butterfly, sulfur butterfly
+n02281787 蜆蝶
+n02317335 海星
+n02319095 雲丹
+n02321529 海鼠
+n02325366 wood rabbit, cottontail, cottontail rabbit
+n02326432 野兎
+n02328150 アンゴラ
+n02342885 ハムスター
+n02346627 防砦
+n02356798 fox squirrel, eastern fox squirrel, Sciurus niger
+n02361337 モルモット
+n02363005 海狸
+n02364673 試験台
+n02389026 羊蹄
+n02391049 縞馬
+n02395406 飼い豚
+n02396427 野猪
+n02397096 疣猪
+n02398521 河馬
+n02403003 雄牛
+n02408429 野牛
+n02410509 野牛
+n02412080 雄羊
+n02415577 bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis
+n02417914 ibex, Capra ibex
+n02422106 ハーテビースト
+n02422699 インパラ
+n02423022 ガゼール
+n02437312 単峰駱駝
+n02437616 喇嘛
+n02441942 鼬鼠
+n02442845 鼬鼠
+n02443114 鼬鼠
+n02443484 フェレット
+n02444819 獺
+n02445715 鼻摘み
+n02447366 貛
+n02454379 鎧鼠
+n02457408 three-toed sloth, ai, Bradypus tridactylus
+n02480495 猩猩
+n02480855 大猩猩
+n02481823 黒猩猩
+n02483362 手長猿
+n02483708 フクロテナガザル
+n02484975 尾長猿
+n02486261 patas, hussar monkey, Erythrocebus patas
+n02486410 狒狒
+n02487347 マカク属
+n02488291 瘠猿
+n02488702 コロブス
+n02489166 天狗猿
+n02490219 マーモセット
+n02492035 尾巻猿
+n02492660 吠猿
+n02493509 ティティ
+n02493793 蜘蛛猿
+n02494079 リスザル
+n02497673 Madagascar cat, ring-tailed lemur, Lemur catta
+n02500267 インドリ
+n02504013 インドゾウ
+n02504458 アフリカ象
+n02509815 熊猫
+n02510455 熊猫
+n02514041 barracouta, snoek
+n02526121 鰻
+n02536864 coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
+n02606052 rock beauty, Holocanthus tricolor
+n02607072 クマノミ
+n02640242 鱣
+n02641379 鱚
+n02643566 ミノカサゴ
+n02655020 鉄砲
+n02666196 算盤
+n02667093 アバーヤ
+n02669723 法服
+n02672831 風琴
+n02676566 アコースティックギター
+n02687172 郵便配達
+n02690373 旅客機
+n02692877 飛行船
+n02699494 霊室
+n02701002 救急車
+n02704792 水陸両用車
+n02708093 アナログクロック
+n02727426 養蜂場
+n02730930 駐機場
+n02747177 芥箱
+n02749479 アサルトライフル
+n02769748 背嚢
+n02776631 ベーカリー
+n02777292 頬笑
+n02782093 風船
+n02783161 ballpoint, ballpoint pen, ballpen, Biro
+n02786058 絆創膏
+n02787622 バンジョー
+n02788148 高欄
+n02790996 バーベル
+n02791124 理髪店のいす
+n02791270 髪結床
+n02793495 馬屋
+n02794156 験気器
+n02795169 銃身
+n02797295 猫車
+n02799071 野球ボール
+n02802426 籠球
+n02804414 bassinet
+n02804610 ファゴット
+n02807133 海水帽
+n02808304 湯手
+n02808440 風呂桶
+n02814533 駕
+n02814860 航路標識
+n02815834 ビーカー
+n02817516 ベアスキン
+n02823428 ビール瓶
+n02823750 beer glass
+n02825657 bell cote, bell cot
+n02834397 金太郎腹掛け
+n02835271 直列型
+n02837789 ビキニ
+n02840245 結合剤
+n02841315 眼鏡
+n02843684 鳥小屋
+n02859443 遊船宿
+n02860847 浮沈み
+n02865351 ループタイ
+n02869837 被り
+n02870880 総書
+n02871525 本屋
+n02877765 bottlecap
+n02879718 辞宜
+n02883205 蝶ネクタイ
+n02892201 黄銅
+n02892767 ブラジャー
+n02894605 鼠頚部
+n02895154 腹巻き
+n02906734 草箒
+n02909870 麻笥
+n02910353 締金
+n02916936 防弾チョッキ
+n02917067 銃弾
+n02927161 肉屋
+n02930766 駕
+n02939185 鍋
+n02948072 蝋燭
+n02950826 龍頭
+n02951358 虚舟
+n02951585 罐切り
+n02963159 襦袢
+n02965783 car mirror
+n02966193 迂遠
+n02966687 carpenter's kit, tool kit
+n02971356 ボール箱
+n02974003 car wheel
+n02977058 自動金銭出入機
+n02978881 テープ
+n02979186 cassette player
+n02980441 館城
+n02981792 双胴船
+n02988304 ＣＤプレーヤー
+n02992211 チェロ
+n02992529 電池
+n02999410 鎖
+n03000134 chainlink fence
+n03000247 鎖帷子
+n03000684 鎖鋸
+n03014705 胸間
+n03016953 褻器
+n03017168 鹿鳴
+n03018349 china cabinet, china closet
+n03026506 クリスマスストッキング
+n03028079 聖堂
+n03032252 電影
+n03041632 牛刀
+n03042490 cliff dwelling
+n03045698 鳶合羽
+n03047690 阻遏
+n03062245 cocktail shaker
+n03063599 コーヒーマグ
+n03063689 コーヒーポット
+n03065424 観世水
+n03075370 組み合わせ錠
+n03085013 キーパッド
+n03089624 飴屋
+n03095699 フルコンテナ船
+n03100240 可変
+n03109150 瓶抜き
+n03110669 警笛
+n03124043 カウボーイブーツ
+n03124170 テンガロンハット
+n03125729 離被架
+n03126707 鶴
+n03127747 crash helmet
+n03127925 銭箱
+n03131574 馬槽
+n03133878 Crock Pot
+n03134739 croquet ball
+n03141823 胯座
+n03146219 胸当て
+n03160309 障壁
+n03179701 釈台
+n03180011 デスクトップPC
+n03187595 dial telephone, dial phone
+n03188531 重ね
+n03196217 デジタルクッロック
+n03197337 デジタル時計
+n03201208 飯台
+n03207743 布巾
+n03207941 食洗機
+n03208938 通風式ディスク
+n03216828 貯水池
+n03218198 犬橇
+n03220513 穹窿
+n03223299 靴拭き
+n03240683 drilling platform, offshore rig
+n03249569 鼓手
+n03250847 桴
+n03255030 鈍才
+n03259280 Dutch oven
+n03271574 電気扇
+n03272010 電気ギター
+n03272562 電気機関車
+n03290653 entertainment center
+n03291819 革
+n03297495 espresso maker
+n03314780 香粉
+n03325584 襟巻
+n03337140 隊列
+n03344393 消防艇
+n03345487 消防車
+n03347037 fire screen, fireguard
+n03355925 旗竿
+n03372029 笛
+n03376595 畳椅子
+n03379051 football helmet
+n03384352 フォークリフト
+n03388043 泉水
+n03388183 羽
+n03388549 four-poster
+n03393912 貨車
+n03394916 警笛
+n03400231 焼鍋
+n03404251 裘
+n03417042 集塵車
+n03424325 防毒
+n03425413 豪華
+n03443371 硝子
+n03444034 ゴーカート
+n03445777 ゴルフボール
+n03445924 ゴルフカート
+n03447447 搬器
+n03447721 鰐口
+n03450230 衣裳
+n03452741 雄渾
+n03457902 養殖場
+n03459775 格子
+n03461385 食料雑貨店
+n03467068 首斬台
+n03476684 hair slide
+n03476991 ヘヤスプレー
+n03478589 half track
+n03481172 鎚
+n03482405 鞄
+n03483316 ヘアードライヤー
+n03485407 ハンドヘルドコンピューター
+n03485794 鼻拭き
+n03492542 HD
+n03494278 竪琴
+n03495258 竪琴
+n03496892 収穫器
+n03498962 薪割り
+n03527444 ホルスター
+n03529860 home theater, home theatre
+n03530642 蜂窩状
+n03532672 餌
+n03534580 クリノリン
+n03535780 鉄棒
+n03538406 horse cart, horse-cart
+n03544143 アワーグラス
+n03584254 ｉＰｏｄ
+n03584829 黒鉄
+n03590841 鬼火
+n03594734 デニム
+n03594945 ジープ
+n03595614 プルオーバー
+n03598930 パズル
+n03599486 豎子
+n03602883 操縦桿
+n03617480 角袖
+n03623198 knee pad
+n03627232 詰紐
+n03630383 lab coat, laboratory coat
+n03633091 蝌蚪
+n03637318 秉燭
+n03642806 ラップトップパソコン
+n03649909 草刈り
+n03657121 lens cap, lens cover
+n03658185 紙裁庖丁
+n03661043 蔵書
+n03662601 救船
+n03666591 鴻毛
+n03670208 リムジーン
+n03673027 通船
+n03676483 臙脂
+n03680355 食い倒れ
+n03690938 洗薬
+n03691459 議長
+n03692522 拡大鏡
+n03697007 製材所
+n03706229 磁石盤
+n03709823 郵袋
+n03710193 郵便箱
+n03710637 maillot
+n03710721 maillot, tank suit
+n03717622 マンホールの蓋
+n03720891 maraca
+n03721384 木琴
+n03724870 面頬
+n03729826 軸木
+n03733131 五月
+n03733281 迷路
+n03733805 メジャーカップ
+n03742115 薬籠
+n03743016 巨石記念物
+n03759954 マイクロホン
+n03761084 電子レンジ
+n03763968 軍装
+n03764736 milk can
+n03769881 ミニバス
+n03770439 ミニスカート
+n03770679 ワンボックスカー
+n03773504 飛道具
+n03775071 ミトン
+n03775546 mixing bowl
+n03776460 モービルホーム
+n03777568 Model T
+n03777754 変復調装置
+n03781244 道場
+n03782006 聴取
+n03785016 原付き
+n03786901 迫撃砲
+n03787032 角帽
+n03788195 教会
+n03788365 蚊柱
+n03791053 大正スケート
+n03792782 マウンテンバイク
+n03792972 mountain tent
+n03793489 鼠
+n03794056 鼠落とし
+n03796401 moving van
+n03803284 鼻面
+n03804744 釘付け
+n03814639 neck brace
+n03814906 首飾り
+n03825788 乳首
+n03832673 ノートパソコン
+n03837869 高閣
+n03838899 オーボー
+n03840681 長薯
+n03841143 輪程計
+n03843555 油漉し
+n03854065 風琴
+n03857828 領域
+n03866082 overskirt
+n03868242 牛車
+n03868863 oxygen mask
+n03871628 通船
+n03873416 舵
+n03874293 車船
+n03874599 鍵
+n03876231 絵筆
+n03877472 寝間着
+n03877845 館娃
+n03884397 鳴管
+n03887697 ペーパータオル
+n03888257 飛膜
+n03888605 格子
+n03891251 ろは台
+n03891332 パーキングメーター
+n03895866 駕
+n03899768 石畳
+n03902125 pay-phone, pay-station
+n03903868 鐙
+n03908618 筆箱
+n03908714 鉛筆削り
+n03916031 骨髄
+n03920288 ペトリ皿
+n03924679 謄写器
+n03929660 鶴嘴
+n03929855 pickelhaube
+n03930313 柵
+n03930630 聴込み
+n03933933 電池
+n03935335 貯金
+n03937543 pill bottle
+n03938244 軸受け
+n03942813 ping-pong ball
+n03944341 鼠花火
+n03947888 賊船
+n03950228 鉢
+n03954731 飛行機
+n03956157 星座投影機
+n03958227 ビニール袋
+n03961711 plate rack
+n03967562 鋤
+n03970156 ラバーカップ
+n03976467 ポラロイドカメラ
+n03976657 舵
+n03977966 駕
+n03980874 ポンチョ
+n03982430 ビリヤードテーブル
+n03983396 pop bottle, soda bottle
+n03991062 鍋
+n03992509 轆轤
+n03995372 ドリル
+n03998194 prayer rug, prayer mat
+n04004767 活版屋
+n04005630 鉄窓
+n04008634 飛道具
+n04009552 映写機
+n04019541 パック
+n04023962 パンチボール
+n04026417 鞄
+n04033901 鵞ペン
+n04033995 首巻き
+n04037443 火玉
+n04039381 雑音
+n04040759 放熱器
+n04041544 無電
+n04044716 電波望遠鏡
+n04049303 天水桶
+n04065272 レクリエーショナルビークル
+n04067472 麻せ
+n04069434 二眼レフカメラ
+n04070727 氷箱
+n04074963 遼遠
+n04081281 飲食店
+n04086273 連発銃
+n04090263 飛び道具
+n04099969 子守歌
+n04111531 rotisserie
+n04116512 護謨
+n04118538 rugby ball
+n04118776 領知
+n04120489 running shoe
+n04125021 金庫
+n04127249 確か
+n04131690 塩入れ
+n04133789 サンダル
+n04136333 サロン
+n04141076 サックス
+n04141327 鞘
+n04141975 鱗状
+n04146614 スクールバス
+n04147183 スクーネル
+n04149813 スコアボード
+n04152593 隔壁
+n04153751 螺旋釘
+n04154565 螺旋抜き
+n04162706 安全ベルト
+n04179913 ミシン
+n04192698 防衛
+n04200800 靴屋
+n04201297 障子
+n04204238 shopping basket
+n04204347 ショッピングカート
+n04208210 スコップ
+n04209133 shower cap
+n04209239 シャワーカーテン
+n04228054 スキーの板
+n04229816 目出し帽
+n04235860 寝袋
+n04238763 計算尺
+n04239074 雨戸
+n04243546 寸隙
+n04251144 スノーケル
+n04252077 雪上車
+n04252225 雪掻車
+n04254120 soap dispenser
+n04254680 サッカーボール
+n04254777 ソックス
+n04258138 太陽炉
+n04259630 被り
+n04263257 汁椀
+n04264628 スペースバー
+n04265275 スペースヒーター
+n04266014 宇宙連絡船
+n04270147 篦
+n04273569 レース艇
+n04275548 蜘蛛の巣
+n04277352 錘
+n04285008 スポーツカー
+n04286575 面灯火
+n04296562 高座
+n04310018 ＳＬ
+n04311004 steel arch bridge
+n04311174 スティールドラム
+n04317175 聴診器
+n04325704 贏
+n04326547 石崖
+n04328186 秒時計
+n04330267 窯
+n04332243 裏漉し
+n04335435 電車
+n04336792 釣台
+n04344873 デイベッド
+n04346328 率塔婆
+n04347754 潜艦
+n04350905 願望
+n04355338 晷針
+n04355933 sunglass
+n04356056 黒眼鏡
+n04357314 日覆い
+n04366367 陸橋
+n04367480 雑巾
+n04370456 トレーナー
+n04371430 海水着
+n04371774 鞦韆
+n04372370 髢
+n04376876 洗瓶
+n04380533 table lamp
+n04389033 軍車
+n04392985 テーププレーヤー
+n04398044 茶瓶
+n04399382 テディーベア
+n04404412 テレビシステム
+n04409515 テニスボール
+n04417672 藁葺き
+n04418357 theater curtain, theatre curtain
+n04423845 指革
+n04428191 麦扱き
+n04429376 高御座
+n04435653 瓦屋根
+n04442312 焙炉
+n04443257 煙草屋
+n04447861 褻器
+n04456115 続松
+n04458633 トーテムポール
+n04461696 牽引車
+n04462240 玩具屋
+n04465501 牽引車
+n04467665 買占め
+n04476259 高地
+n04479046 レーンコート
+n04482393 三輪車
+n04483307 トリマラン
+n04485082 鼎足
+n04486054 凱旋門
+n04487081 トロリーバス
+n04487394 トロンボーン
+n04493381 貯水池
+n04501370 turnstile
+n04505470 typewriter keyboard
+n04507155 雨具
+n04509417 一輪車
+n04515003 鉛直
+n04517823 電気掃除機
+n04522168 萼
+n04523525 骨堂
+n04525038 本天
+n04525305 販売機
+n04532106 法衣
+n04532670 陸橋
+n04536866 鼓弓
+n04540053 排球
+n04542943 waffle iron
+n04548280 柱時計
+n04548362 鞄
+n04550184 論壇
+n04552348 軍用機
+n04553703 金盥
+n04554684 湯手
+n04557648 水筒
+n04560804 点水
+n04562935 給水塔
+n04579145 whiskey jug
+n04579432 遠吠え
+n04584207 鬘
+n04589890 window screen
+n04590129 日覆い
+n04591157 ウィンザータイ
+n04591713 wine bottle
+n04592741 鏡の間
+n04596742 中華鍋
+n04597913 杓文字
+n04599235 羊毛
+n04604644 worm fence, snake fence, snake-rail fence, Virginia fence
+n04606251 難船
+n04612504 yawl
+n04613696 ユルト
+n06359193 部位
+n06596364 漫画雑誌
+n06785654 クロスワードパズル
+n06794110 street sign
+n06874185 赤信号
+n07248320 表紙カバー
+n07565083 飯
+n07579787 長押
+n07583066 ワカモレ
+n07584110 コンソメ
+n07590611 鍋物
+n07613480 鬼窟
+n07614500 氷菓
+n07615774 飴ん棒
+n07684084 French loaf
+n07693725 ベーグル
+n07695742 プレッツェル
+n07697313 チーズバーガー
+n07697537 赤熱
+n07711569 マッシュポテト
+n07714571 キャベツ
+n07714990 ブロッコリー
+n07715103 花野菜
+n07716358 ズッキーニ
+n07716906 spaghetti squash
+n07717410 acorn squash
+n07717556 butternut squash
+n07718472 黄瓜
+n07718747 薊
+n07720875 ピーマン
+n07730033 cardoon
+n07734744 菌
+n07742313 Granny Smith
+n07745940 阿蘭陀苺
+n07747607 紅蜜柑
+n07749582 淡黄色
+n07753113 無花果状果
+n07753275 鳳梨
+n07753592 姫芭蕉
+n07754684 波羅蜜
+n07760859 ポポー
+n07768694 石榴
+n07802026 馬草
+n07831146 カルボナーラ
+n07836838 chocolate sauce, chocolate syrup
+n07860988 貼付け
+n07871810 ミートローフ
+n07873807 ピッツア
+n07875152 ポットパイ
+n07880968 burrito
+n07892512 赤面
+n07920052 カフェエスプレッソ
+n07930864 酒盃
+n07932039 玉子酒
+n09193705 高峰
+n09229709 泡沫
+n09246464 雫
+n09256479 珊瑚礁
+n09288635 間歇泉
+n09332890 湖畔
+n09399592 魁首
+n09421951 砂洲
+n09428293 臨海
+n09468604 陰
+n09472597 火山
+n09835506 野球選手
+n10148035 馬手
+n10565667 scuba diver
+n11879895 菜種
+n11939491 雛菊
+n12057211 yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum
+n12144580 鶏眼
+n12267677 橡栗
+n12620546 隅棟
+n12768682 西洋橡の木
+n12985857 coral fungus
+n12998815 agaric
+n13037406 gyromitra
+n13040303 スッポンタケ
+n13044778 土栗
+n13052670 マイタケ
+n13054560 bolete
+n13133613 頭花
+n15075141 落紙

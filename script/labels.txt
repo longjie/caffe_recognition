@@ -1,1 +1,0 @@
-/home/tajima/Codes/chainer/examples/modelzoo/labels.txt

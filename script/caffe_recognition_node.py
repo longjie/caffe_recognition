@@ -15,6 +15,7 @@ from caffe_recognition.srv import ClassifyImage
 import cv2
 from cv_bridge import CvBridge, CvBridgeError
 import numpy as np
+from rospeex_if import ROSpeexInterface
 
 class CaffeRecognitionServer:
     def __init__(self, network):
@@ -23,14 +24,18 @@ class CaffeRecognitionServer:
         self.bridge = CvBridge()
 
         # 画像の購読
-        rospy.Subscriber("/camera/image_raw", Image, self.image_callback)
+        rospy.Subscriber("/camera/image_raw", Image, self.image_callback, queue_size=1)
         
         # サービスの初期化
         rospy.Service('recognize', ClassifyImage, self.recognize)
 
-        self.pub_cropped = rospy.Publisher('/image_cropped', Image, queue_size=10)
+        self.pub_cropped = rospy.Publisher('/image_cropped', Image, queue_size=1)
 
-        self.categories = xp.loadtxt("labels.txt", str, delimiter="\t")
+        self.categories = xp.loadtxt("synset_words_jp.txt", str, delimiter="\t")
+        #self.categories = xp.loadtxt("synset_words.txt", str, delimiter="\t")
+
+        #self.rospeex = ROSpeexInterface()
+        #self.rospeex.init()
 
     def recognize(self, req):
         pass
@@ -63,7 +68,7 @@ class CaffeRecognitionServer:
             self.pub_cropped.publish(self.bridge.cv2_to_imgmsg(image, "bgr8"))
         except CvBridgeError as e:
             print (e)
-
+    
         image = image.transpose(2, 0, 1).astype(xp.float32)
         image -= self.network.mean_image
 
@@ -75,7 +80,7 @@ class CaffeRecognitionServer:
         prediction = zip(score.data[0].tolist(), self.categories)
         prediction.sort(cmp=lambda x, y: cmp(x[0], y[0]), reverse=True)
 
-        print ('\n\n\n\n\n\n\n')
+        print ('\033c')
         for rank, (score, name) in enumerate(prediction[:5], start=1):
             print('#%d | %s | %4.1f%%' % (rank, name, score * 100))
 
