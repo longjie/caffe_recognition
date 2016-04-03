@@ -5,8 +5,8 @@ import sys
 import re
 
 f1 = open('synset_words.txt', 'r')
-#f2 = open('wnjpn-ok.tab', 'r')
-f2 = open('wnjpn-all.tab', 'r')
+f2 = open('wnjpn-ok.tab', 'r')
+#f2 = open('wnjpn-all.tab', 'r')
 f3 = open('synset_words_jp.txt', 'w')
 
 en_words = list(f1)
@@ -27,6 +27,6 @@ for line in en_words:
 for pair in en_list:
     code = re.sub(r'\n', '', pair[0])
     if code in jp_dict:
-        f3.write('%s %s\n' % (code, jp_dict[code]))
+        f3.write('%s\t%s\n' % (code, jp_dict[code]))
     else:
-        f3.write('%s %s\n' % (code, pair[1]))
+        f3.write('%s\t%s\n' % (code, pair[1]))

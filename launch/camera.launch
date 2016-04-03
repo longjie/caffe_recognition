@@ -10,4 +10,5 @@
   <node name="image_view_cropped" pkg="image_view" type="image_view" output="screen">
     <remap from="image" to="/image_cropped" />
   </node>
+  <include file="$(find rospeex_launch)/launch/rospeex_local.launch" />
 </launch>

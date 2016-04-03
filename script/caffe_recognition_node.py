@@ -16,12 +16,14 @@ import cv2
 from cv_bridge import CvBridge, CvBridgeError
 import numpy as np
 from rospeex_if import ROSpeexInterface
+import codecs
 
 class CaffeRecognitionServer:
     def __init__(self, network):
         self.network = network
 
         self.bridge = CvBridge()
+        self.image = None
 
         # 画像の購読
         rospy.Subscriber("/camera/image_raw", Image, self.image_callback, queue_size=1)
@@ -31,14 +33,10 @@ class CaffeRecognitionServer:
 
         self.pub_cropped = rospy.Publisher('/image_cropped', Image, queue_size=1)
 
-        self.categories = xp.loadtxt("synset_words_jp.txt", str, delimiter="\t")
-        #self.categories = xp.loadtxt("synset_words.txt", str, delimiter="\t")
-
-        #self.rospeex = ROSpeexInterface()
-        #self.rospeex.init()
-
-    def recognize(self, req):
-        pass
+        # self.categories = xp.loadtxt("synset_words_jp.txt", str, delimiter="\t")
+        sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
+        with codecs.open("synset_words_jp.txt", 'r', 'utf-8') as file:
+            self.categories = [x.split('\t') for x in file]
 
     def image_callback(self, data):
         """画像を取得する"""
@@ -46,8 +44,12 @@ class CaffeRecognitionServer:
             self.image = self.bridge.imgmsg_to_cv2(data, "bgr8")
         except CvBridgeError as e:
             print(e)
-        
+
+    def recognize(self):
         """ネットワークを適用する"""
+        if self.image == None:
+            return ('None', 0.0)
+
         # 画像を中心から224x224にリサイズする
         in_size = self.network.in_size
 
@@ -82,7 +84,9 @@ class CaffeRecognitionServer:
 
         print ('\033c')
         for rank, (score, name) in enumerate(prediction[:5], start=1):
-            print('#%d | %s | %4.1f%%' % (rank, name, score * 100))
+            print('#%d | %s | %4.1f%%' % (rank, name[1], score * 100))
+
+        return (prediction[0][1][1], prediction[0][0])
 
 if __name__ == "__main__":
     # ROSノードの初期化
@@ -110,6 +114,20 @@ if __name__ == "__main__":
         print('googlenet only', file=stderr)
 
     server = CaffeRecognitionServer(network)
+
+    rospeex = ROSpeexInterface()
+    rospeex.init()
+
+    r = rospy.Rate(2) # 1hz
+    prev_name = None
+    while not rospy.is_shutdown():
+        (name, score) = server.recognize()
+        print('%s | %4.1f%%' % (name, score * 100))
+        if score > 0.5:
+            if prev_name != name:
+                rospeex.say(name+u'です', 'ja', 'nict')
+                prev_name = name
+        r.sleep()
 
     rospy.spin()
 
